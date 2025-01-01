@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello 👋
+This is my github profile. 
+I'm currently just starting out.
+I'm learing C++ for application in the VRC V5 competition. 
+
 
 <!--
 **taiyotomato/taiyotomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
