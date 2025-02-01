@@ -1,7 +1,7 @@
 ## Hello 👋
 ## This is my github profile. 
-## I'm currently just starting out.
-## I'm learing C++ for application in the VEX V5 competition. 
+- I'm currently just starting out.
+- I'm learing C++ for the VEX V5 competition. 
 
 
 <!--
